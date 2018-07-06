@@ -1,0 +1,24 @@
+{
+  "profiles":[
+    {
+      "name":"Karthik",
+      "label":"DBA",
+      "company":"Infosys"
+    },
+    {
+      "name":"Ram",
+      "label":"Tester",
+      "company":"Virtusa"
+    },
+    {
+      "name":"Raj",
+      "label":"Developer",
+      "company":"Capgemini"
+    },
+    {
+      "name":"Madhu",
+      "label":"Team Leader",
+      "company":"IBM"
+    }
+  ]
+}

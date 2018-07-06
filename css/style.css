@@ -1,0 +1,21 @@
+header{
+  background: yellow;
+  color:000;
+  padding:1%;
+  text-align: center;
+  box-shadow: 3px 3px 3px #ddd;
+}
+.main{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing:border-box;
+  }
+
+.subDiv{
+  width:33.3%;
+  border:1px solid #ddd;
+ box-shadow: 3px 3px 3px #ddd;
+ padding: 1%;
+ margin: 2%;
+}
